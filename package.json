@@ -1,6 +1,6 @@
 {
   "name": "comp308-w2019-lesson4b",
-  "version": "0.0.1",
+  "version": "1.1.1",
   "private": true,
   "scripts": {
     "start": "node server.js"
@@ -33,10 +33,6 @@
     "@types/mongoose": "^5.3.12",
     "@types/morgan": "^1.7.35",
     "@types/node": "^10.12.18"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/CentennialCollege/COMP308-W2019-Lesson4B.git"
   },
   "bugs": {
     "url": "https://github.com/CentennialCollege/COMP308-W2019-Lesson4B/issues"
